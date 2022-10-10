@@ -1,0 +1,15 @@
+
+Create the folder structures
+        app - config, controller, helpers, libraries, models, views, require.php, .htaccess
+        
+        public - css, js, img, indes.php, .htaccess
+
+
+configure the htaccess: 
+        to restrict the app folder from been viewed
+        to also configure how the url is been displayed
+
+connect all require.php to the libraries folder (Core, Controller, Database) 
+
+
+

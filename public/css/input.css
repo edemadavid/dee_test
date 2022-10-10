@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .active{
+        @apply 
+        dark:bg-gray-600 dark:border-gray-100
+        bg-blue-800 border-blue-500
+    }
+}
+
