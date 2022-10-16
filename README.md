@@ -21,7 +21,7 @@ This project is a PHP-OOP based project with a MVC structure.
 ### How to install
 - Install xampp 
 - create a database named **intern_etest**
-- Do not rename the 
+- Do not rename the folder, because the htaccess need that exact name to function 
 - import the database
 
 
